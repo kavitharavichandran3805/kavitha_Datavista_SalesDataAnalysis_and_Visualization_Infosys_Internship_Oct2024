@@ -1,6 +1,9 @@
 DATA OPERATIONS
+
 Use Case - Learning how to perform Arithmetic operations and Modulus operations . It is widely usind scientific computing which supports arrays and matrices along with the long collection of high level mathematical functions to operate on these data structures
+
 Library used - Numpy
+
 Codes executed: 
 1. Linear Regression
 2. Logistic Regression
@@ -11,8 +14,11 @@ Codes executed:
 7. SVM
 
 DATA PROCESSING
+
 Use Case - It is used for manipulating, transforming and analyzing data.
+
 Library Used - Pandas
+
 Codes Executed:
 1. Reading a file(CSV,XLX etc.)
 2. Executing and extracting the headings
@@ -20,8 +26,11 @@ Codes Executed:
 4. Data Cleaning
    
 DATA VISUALIZATION
+
 Use Case - Used for visualizing the data for better understanding.
-Library used - Matplotlib 
+
+Library used - Matplotlib
+
 Codes Executed:
 1. Simple Line Plot
 2. Scatter Plot
@@ -55,8 +64,11 @@ Codes Executed:
 15. Morphological operations
 
 DEEP LEARNING VIDEO PROCESSING
+
 Use Case - Digitizing and executing videos with the help of vision(Deep learning - CNN) 
+
 Library Used - OpenCV
+
 Codes Executed:
 1. Video Streaming
 2. Video Stacking
@@ -65,12 +77,17 @@ Codes Executed:
 5. Multiple Video Streaming
 
 SALES DATA ANALYSIS AND VISUALIZATION
+
 Use Case - Processing, Analyzing and Visualizing the Sales Data
+
 Library Used - Pandas, Matplotlib, Seaborn
 
 DATA VISUALIZATION STATISTICAL
+
 Use Case - Used for creating visually appealing, statistically-focused plots with minimal code.
+
 Library Used - Seaborn
+
 Codes Executed:
 1. Bar Plot
 2. Box Plot
