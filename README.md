@@ -109,6 +109,17 @@ Codes Executed:
 18. Swarm Plot
 19. Violen Plot
 
+PROJECT - SMARTPHONE SALES DATA ANALYSIS AND SENTIMENT INSIGHTS
+
+Use Case : Helps identify key factors influencing smartphone sales, predict prices, classify ratings, and analyze customer sentiment for strategic decision-making
+
+Library used : NumPy,Pandas,Matplotlib,Seaborn,Scikit-Learn,Seaborn,Selenium,Requests,Beautiful Soup,TextBlob
+
+Overview:
+   This project explores relationships in smartphone sales data, focusing on attributes like selling price, original price, ratings, memory, storage, discounts, and brands. Using Python, machine learning models such as Linear Regression and Random Forest were implemented to predict selling prices and classify ratings. Data preprocessing involved cleaning missing values, encoding categorical variables, and extracting numerical features.
+
+   Exploratory Data Analysis (EDA) revealed trends through visualizations like scatter plots, heatmaps, and bar charts. Additionally, customer reviews were scraped using Selenium and BeautifulSoup, and sentiment analysis was performed with TextBlob to derive monthly polarity scores. The insights were visualized using a 3D graph, highlighting sentiment trends over the past year. The results offer actionable insights for pricing strategies, brand positioning, and customer satisfaction.
+
 
 
 
